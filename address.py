@@ -1,3 +1,5 @@
+#setting variables to be typed out later
+
 SA_Name = "Shahood Alvi"
 SA_Age = 17.08
 SA_Email = "267741@burlcoschools.org"
@@ -63,6 +65,8 @@ JR_Age = 16.44
 JR_Email = "268188@burlcoschools.org"
 JR_Grade = 11
 JR_driversLicense = False
+
+#Printing the variables in the form of sperate id cards
 
 print("-----------------------------------------")
 print("| Name:", SA_Name, "                   |")
